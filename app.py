@@ -1188,4 +1188,5 @@ st.markdown("""
 <div style="text-align: center; color: #6c757d; font-family: 'Rajdhani', sans-serif; padding: 0.8rem 0; margin-top: 1.5rem;">
     <p>🛰️ <strong>SpectraMining AI</strong> | Sentinel-2 ESA & Google Earth Engine</p>
 </div>
+
 """, unsafe_allow_html=True)
